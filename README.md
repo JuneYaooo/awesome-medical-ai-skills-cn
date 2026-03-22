@@ -66,6 +66,7 @@
 | 技能 | 平台 | 可用性 | Stars | 说明 |
 |------|------|--------|-------|------|
 | [medical-guidelines-suite](https://github.com/fshaan/medical-guidelines-suite) | Claude Code | ✅ 直接可用 | ![](https://img.shields.io/github/stars/fshaan/medical-guidelines-suite?style=flat-square) | 临床指南知识库构建 + 跨指南 RAG 检索 + 批量患者报告生成。**中文输出**。支持 NCCN、ESMO、CSCO 指南。生成 xlsx/docx/pptx 报告。 |
+| [mediwise-health-suite](https://github.com/JuneYaooo/mediwise-health-suite) | OpenClaw | ✅ 直接可用 | ![](https://img.shields.io/github/stars/JuneYaooo/mediwise-health-suite?style=flat-square) | **家庭健康管理套件** — 健康档案、饮食追踪、体重管理、用药提醒、就医前摘要生成。支持多家庭成员隔离、图片识别化验单。本地 SQLite 存储，保护隐私。**中文原生**。 |
 | [Claude-Ally-Health](https://github.com/huifer/Claude-Ally-Health) | Claude Code | ✅ 直接可用 | — | 个人健康档案管理。13 个专科咨询模拟、药物相互作用检测（A/B/C/D/X 五级）、辐射剂量追踪。**中英双语**。 |
 
 **[→ 临床技能详情](categories/临床技能.md)**
