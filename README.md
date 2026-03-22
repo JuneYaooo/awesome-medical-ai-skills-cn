@@ -7,7 +7,10 @@
 
 > 🌍 **Looking for international skills?** See [awesome-medical-ai-skills](https://github.com/JuneYaooo/awesome-medical-ai-skills) — International Edition: Garmin, Fitbit, WHOOP, Epic FHIR, etc.
 
-> 精选**国内可用**的医疗 & 健康 AI Agent Skills、MCP 服务器和工具合集。
+> 🏥 **找医疗 AI 项目（大模型、影像、临床系统）？** 请看 [awesome-medical-ai-cn](https://github.com/JuneYaooo/awesome-medical-ai-cn) — 国内医疗 AI 项目合集
+
+> 精选**国内可用**的医疗 & 健康 AI Agent Skills、MCP 服务器合集。
+> **仅收录可安装到 AI Agent 平台的技能**（Claude Code、OpenClaw、Cursor 等）。
 > 重点关注：**网络可达性** · **中文支持** · **国内平台生态** · **国内法规合规**
 
 ---
@@ -41,11 +44,8 @@
 ## 目录
 
 - [临床决策支持](#临床决策支持)
-- [中文医疗大模型](#中文医疗大模型)
 - [医疗 MCP 服务器](#医疗-mcp-服务器)
 - [中医药 AI](#中医药-ai)
-- [医学影像 AI](#医学影像-ai)
-- [电子病历与临床系统](#电子病历与临床系统)
 - [健康数据与可穿戴设备](#健康数据与可穿戴设备)
 - [药物与药理](#药物与药理)
 - [心理健康](#心理健康)
@@ -54,7 +54,7 @@
 - [孕婴健康](#孕婴健康)
 - [医疗器械合规](#医疗器械合规)
 - [生物医学研究](#生物医学研究)
-- [多智能体医疗系统（参考）](#多智能体医疗系统)
+- [微信/企业微信集成](#微信企业微信集成)
 - [技能合集与资源](#技能合集与资源)
 
 ---
@@ -67,23 +67,8 @@
 |------|------|--------|-------|------|
 | [medical-guidelines-suite](https://github.com/fshaan/medical-guidelines-suite) | Claude Code | ✅ 直接可用 | ![](https://img.shields.io/github/stars/fshaan/medical-guidelines-suite?style=flat-square) | 临床指南知识库构建 + 跨指南 RAG 检索 + 批量患者报告生成。**中文输出**。支持 NCCN、ESMO、CSCO 指南。生成 xlsx/docx/pptx 报告。 |
 | [Claude-Ally-Health](https://github.com/huifer/Claude-Ally-Health) | Claude Code | ✅ 直接可用 | — | 个人健康档案管理。13 个专科咨询模拟、药物相互作用检测（A/B/C/D/X 五级）、辐射剂量追踪。**中英双语**。 |
-| [cyber-doctor（赛博华佗）](https://github.com/Warma10032/cyber-doctor) | 独立项目 | ✅ 直接可用 | ![](https://img.shields.io/github/stars/Warma10032/cyber-doctor?style=flat-square) | 基于多模态大模型的多功能智能体。接入医疗知识图谱后可进行疾病初诊、病历分析、专业知识问答。一键搭建本地多模态大模型。 |
 
 **[→ 临床技能详情](categories/临床技能.md)**
-
----
-
-## 中文医疗大模型
-
-> 国内团队开发的医疗领域大模型，可作为 Agent 的底座或工具。
-
-| 项目 | Stars | 团队 | 说明 |
-|------|-------|------|------|
-| [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT) | ![](https://img.shields.io/github/stars/FreedomIntelligence/HuatuoGPT?style=flat-square) | 港中文深圳 | 华佗 GPT — 面向医疗场景的开源中文医疗大模型。支持问诊对话、医学知识问答。 |
-| [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1) | ![](https://img.shields.io/github/stars/FreedomIntelligence/HuatuoGPT-o1?style=flat-square) | 港中文深圳 | 医疗领域复杂推理能力，Medical o1 思路。 |
-| [DISC-MedLLM](https://github.com/FudanDISC/DISC-MedLLM) | ![](https://img.shields.io/github/stars/FudanDISC/DISC-MedLLM?style=flat-square) | 复旦 DISC | 面向医疗健康对话的大语言模型。智能问诊、医疗知识问答、病历结构化。 |
-| [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | ![](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=flat-square) | 港中文深圳 | 869 个医疗 AI Agent 技能文档（SKILL.md 格式）：临床工作流、基因组学、药物发现、法规合规。供 OpenClaw/NanoClaw 平台安装使用，非独立可执行工具。 |
-| [Chinese-clinical-NER](https://github.com/MenglinLu/Chinese-clinical-NER) | ![](https://img.shields.io/github/stars/MenglinLu/Chinese-clinical-NER?style=flat-square) | — | CCKS2019 中文命名实体识别：从医疗文本中识别疾病、解剖部位、影像检查、实验室检验、手术和药物 6 种实体。 |
 
 ---
 
@@ -110,29 +95,6 @@
 | [tcm-video-factory](https://clawskills.sh/skills/tcm-video-factory) | ⚠️ 部分可用 | — | 基于 Perplexity API 的中医健康视频自动化制作（选题研究 → 脚本 → 角色 → 图像/视频提示）。OpenClaw 技能。 |
 
 > 💡 **社区招募**：中医药 AI 是一个极具潜力但资源稀缺的方向。如果你有中医知识图谱、方剂数据库、辨证论治 Agent 等项目，欢迎提交 PR！
-
----
-
-## 医学影像 AI
-
-| 项目 | 可用性 | Stars | 说明 |
-|------|--------|-------|------|
-| [MedRAX](https://github.com/bowang-lab/MedRAX) | 🔧 需适配 | ![](https://img.shields.io/github/stars/bowang-lab/MedRAX?style=flat-square) | **ICML 2025**。胸部 X 光 AI 解读。需 GPU + 模型下载。依赖 GPT-4o（需代理）。 |
-| [EasyLung](https://github.com/TommyZihao/EasyLung) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/TommyZihao/EasyLung?style=flat-square) | 从 X 光胸片中 AI 识别肺炎及病原体种类。包含网页、**微信小程序**、APP。 |
-| [liver_cancer_classify](https://github.com/wuwusky/liver_cancer_classify) | ✅ 直接可用 | — | 肝癌影像 AI 诊断（3D-Conv 深度学习）。 |
-| [Lambar_Spine_Slicer](https://github.com/Keyon-2580/Lambar_Spine_Slicer) | ✅ 直接可用 | — | 腰椎影像智能分割可视化系统。Vue+Django+3DUNet。 |
-| [paddle-fl-gui](https://github.com/yyyanbj/paddle-fl-gui) | ✅ 直接可用 | — | 基于 PaddleFL 的联邦学习医疗影像识别 GUI。百度飞桨框架。 |
-
----
-
-## 电子病历与临床系统
-
-| 项目 | 可用性 | Stars | 说明 |
-|------|--------|-------|------|
-| [SoDiaoEditor](https://github.com/tlzzu/SoDiaoEditor) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/tlzzu/SoDiaoEditor?style=flat-square) | 通用结构化文档编辑器，**被多家三甲医院采用作为电子病历编辑器**。支持模板、结构化数据录入。非医疗专用，但在 EMR 场景中广泛使用。持续维护中。 |
-| [HIS（ZainZhao）](https://github.com/ZainZhao/HIS) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/ZainZhao/HIS?style=flat-square) | 医院信息系统。门诊/药房/财务/患者管理工作站。Spring Boot。 |
-| [HIS（TANGKUO）](https://github.com/TANGKUO/HIS) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/TANGKUO/HIS?style=flat-square) | 医院信息系统。临床诊疗、药品管理、财务管理、患者管理。 |
-| [云医疗管理系统](https://github.com/Rain-Ricky/cloud) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/Rain-Ricky/cloud?style=flat-square) | 网上挂号、在线问诊、诊断报告查询、费用缴纳。Spring Boot + 前后端分离。 |
 
 ---
 
@@ -245,46 +207,6 @@
 
 ---
 
-## 多智能体医疗系统
-
-> 💡 **说明**：以下为国际项目中对国内用户有参考价值的多智能体系统。它们本身不是国内项目，但架构和思路可供参考。更多多智能体系统见[国际版](https://github.com/JuneYaooo/awesome-medical-ai-skills#multi-agent-medical-systems)。
-
-| 项目 | 可用性 | Stars | 说明 |
-|------|--------|-------|------|
-| [cyber-doctor（赛博华佗）](https://github.com/Warma10032/cyber-doctor) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/Warma10032/cyber-doctor?style=flat-square) | 国内社区开发的多模态医疗智能体，支持本地部署，可接入知识图谱。（也见[临床决策支持](#临床决策支持)） |
-
----
-
-## 技能合集与资源
-
-| 资源 | Stars | 说明 |
-|------|-------|------|
-| [awesome-openclaw-skills-zh](https://github.com/clawdbot-ai/awesome-openclaw-skills-zh) | ![](https://img.shields.io/github/stars/clawdbot-ai/awesome-openclaw-skills-zh?style=flat-square) | OpenClaw **中文官方技能库**。按场景分类，支持中文调用。 |
-| [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | ![](https://img.shields.io/github/stars/yzfly/Awesome-MCP-ZH?style=flat-square) | MCP 中文资源精选合集 |
-| [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | ![](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=flat-square) | 869 个医疗技能（港中文深圳团队） |
-| [ai-guide（鱼皮）](https://github.com/liyupi/ai-guide) | ![](https://img.shields.io/github/stars/liyupi/ai-guide?style=flat-square) | AI 资源大全 + 教程。含 OpenClaw/Claude Code 教程、Skills 使用指南。 |
-
----
-
-## 🔴 国内急需但尚缺的方向
-
-以下方向在国内有强烈需求，但目前开源社区中尚无成熟的 Agent Skill：
-
-| 方向 | 需求场景 | 难度 |
-|------|---------|------|
-| 🏥 **NMPA 药品/器械查询** | 查询国家药监局药品注册信息、器械注册状态 | ⭐⭐ |
-| 💊 **国家基本药物目录** | 查询基药目录、医保目录、集采药品信息 | ⭐⭐ |
-| 📋 **DRG/DIP 分组辅助** | 辅助 DRG/DIP 编码分组和费用预测 | ⭐⭐⭐ |
-| 🏥 **互联网医院接口** | 对接微医、好大夫、丁香园等平台 API | ⭐⭐⭐ |
-| 📱 **华为/小米健康数据** | 华为运动健康、小米健康 API 数据读取 | ⭐⭐⭐ |
-| 🌿 **中医辨证论治 Agent** | 基于中医理论的智能辨证和方剂推荐 | ⭐⭐⭐⭐ |
-| 🧬 **国内基因检测数据** | 对接微基因、23魔方等国内基因检测数据 | ⭐⭐⭐ |
-| 📊 **卫健委数据接口** | 查询全国卫生统计、传染病疫情等公开数据 | ⭐⭐ |
-
-**欢迎社区贡献！** 如果你正在开发以上方向的项目，请提交 PR。
-
----
-
 ## 微信/企业微信集成
 
 以下技能支持通过微信或企业微信与 AI Agent 交互：
@@ -293,6 +215,25 @@
 |------|------|------|
 | [wechat-mcp](https://clawskills.sh/skills/wechat-mcp) | OpenClaw | Windows 微信桌面端 MCP 集成 — 消息监控、搜索联系人、发送消息 |
 | [wecom](https://clawskills.sh/skills/wecom) | OpenClaw | 通过 Webhook 向企业微信发送消息 |
+
+---
+
+## 技能合集与资源
+
+| 资源 | Stars | 说明 |
+|------|-------|------|
+| [awesome-openclaw-skills-zh](https://github.com/clawdbot-ai/awesome-openclaw-skills-zh) | ![](https://img.shields.io/github/stars/clawdbot-ai/awesome-openclaw-skills-zh?style=flat-square) | OpenClaw **中文官方技能库**。按场景分类，支持中文调用。 |
+| [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | ![](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=flat-square) | 869 个医疗技能（港中文深圳团队） |
+
+---
+
+## 姊妹仓库
+
+| 仓库 | 说明 |
+|------|------|
+| [awesome-medical-ai-skills](https://github.com/JuneYaooo/awesome-medical-ai-skills) | 🌍 医疗 AI Skills（国际版） |
+| [awesome-medical-ai](https://github.com/JuneYaooo/awesome-medical-ai) | 🌍 医疗 AI 项目合集（国际版） |
+| [awesome-medical-ai-cn](https://github.com/JuneYaooo/awesome-medical-ai-cn) | 🇨🇳 国内医疗 AI 项目合集（大模型、影像、HIS 等） |
 
 ---
 
