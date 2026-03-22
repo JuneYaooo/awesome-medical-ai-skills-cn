@@ -67,7 +67,7 @@
 |------|------|--------|-------|------|
 | [medical-guidelines-suite](https://github.com/fshaan/medical-guidelines-suite) | Claude Code | ✅ 直接可用 | ![](https://img.shields.io/github/stars/fshaan/medical-guidelines-suite?style=flat-square) | 临床指南知识库构建 + 跨指南 RAG 检索 + 批量患者报告生成。**中文输出**。支持 NCCN、ESMO、CSCO 指南。生成 xlsx/docx/pptx 报告。 |
 | [mediwise-health-suite](https://github.com/JuneYaooo/mediwise-health-suite) | OpenClaw | ✅ 直接可用 | ![](https://img.shields.io/github/stars/JuneYaooo/mediwise-health-suite?style=flat-square) | **家庭健康管理套件** — 健康档案、饮食追踪、体重管理、用药提醒、就医前摘要生成。支持多家庭成员隔离、图片识别化验单。本地 SQLite 存储，保护隐私。**中文原生**。 |
-| [Claude-Ally-Health](https://github.com/huifer/Claude-Ally-Health) | Claude Code | ✅ 直接可用 | — | 个人健康档案管理。13 个专科咨询模拟、药物相互作用检测（A/B/C/D/X 五级）、辐射剂量追踪。**中英双语**。 |
+| [WellAlly-health](https://github.com/huifer/WellAlly-health) | Claude Code | ✅ 直接可用 | — | 个人健康档案管理。13 个专科咨询模拟、药物相互作用检测（A/B/C/D/X 五级）、辐射剂量追踪。**中英双语**。*(原名 Claude-Ally-Health)* |
 
 **[→ 临床技能详情](categories/临床技能.md)**
 
@@ -83,7 +83,6 @@
 | [medical-mcp](https://github.com/JamesANZ/medical-mcp) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/JamesANZ/medical-mcp?style=flat-square) | FDA 药物、WHO 统计、PubMed 检索。Google Scholar 部分在国内不可用。本地部署无需 API 密钥。 |
 | [OMOP MCP](https://github.com/OHNLP/omop_mcp) | ⚠️ 部分可用 | — | 临床术语到 OMOP 概念映射。需要 API Key。对接 LOINC、SNOMED 等国际标准。 |
 | [mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/andybrandt/mcp-simple-pubmed?style=flat-square) | PubMed 文献搜索。PubMed 在国内可直接访问。 |
-| [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/yzfly/Awesome-MCP-ZH?style=flat-square) | MCP 中文资源精选，含部分医疗相关 MCP 服务器索引。 |
 
 ---
 
@@ -93,7 +92,7 @@
 
 | 项目 | 可用性 | Stars | 说明 |
 |------|--------|-------|------|
-| [tcm-video-factory](https://clawskills.sh/skills/tcm-video-factory) | ⚠️ 部分可用 | — | 基于 Perplexity API 的中医健康视频自动化制作（选题研究 → 脚本 → 角色 → 图像/视频提示）。OpenClaw 技能。 |
+| *(暂无可用项目)* | | | 基于 Perplexity API 的中医健康视频制作等项目曾在 OpenClaw 上线，但目前链接已失效。 |
 
 > 💡 **社区招募**：中医药 AI 是一个极具潜力但资源稀缺的方向。如果你有中医知识图谱、方剂数据库、辨证论治 Agent 等项目，欢迎提交 PR！
 
@@ -120,7 +119,6 @@
 |------|--------|------|
 | [garmin-health](https://clawskills.sh/skills/eversonl-garmin-health-analysis) | ✅ 直接可用 | 自然语言查询 Garmin 数据 — 20+ 指标 |
 | [garmin-cli](https://clawskills.sh/skills/voydz-garmin-cli) | ✅ 直接可用 | Garmin Connect CLI |
-| [garmin-connect](https://clawskills.sh/skills/garmin-connect) | ✅ 直接可用 | 每 5 分钟自动同步 |
 
 ### 其他国际设备（国内部分可用）
 
@@ -128,7 +126,6 @@
 |------|--------|------|
 | [fitbit](https://clawskills.sh/skills/mjrussell-fitbit) | ⚠️ 部分可用 | Fitbit 国内用户较少但可用 |
 | [oura-analytics](https://clawskills.sh/skills/kesslerio-oura-analytics) | ⚠️ 部分可用 | Oura Ring 数据分析 |
-| [withings-health](https://clawskills.sh/skills/withings-health) | ⚠️ 部分可用 | Withings 体重/体脂/活动/睡眠 |
 
 ---
 
@@ -147,12 +144,12 @@
 
 | 技能 | 可用性 | 说明 |
 |------|--------|------|
-| [therapy-mode](https://clawskills.sh/skills/therapy-mode) | ⚠️ 部分可用 | CBT/ACT/DBT/MI 治疗框架。英文为主。 |
+| [therapy-mode](https://clawskills.sh/skills/therapy-mode) | ⚠️ 部分可用 | CBT/ACT/DBT/MI 治疗框架。英文为主。*(链接可能失效)* |
 | [anxiety-relief](https://clawskills.sh/skills/jhillin8-anxiety-relief) | ✅ 直接可用 | 焦虑缓解：接地练习和呼吸技巧 |
 | [depression-support](https://clawskills.sh/skills/jhillin8-depression-support) | ✅ 直接可用 | 每日情绪追踪和抑郁支持 |
-| [jungian-psychologist](https://clawskills.sh/skills/jungian-psychologist) | ⚠️ 部分可用 | 荣格心理学：阴影工作、原型分析、梦境解读 |
+| [jungian-psychologist](https://clawskills.sh/skills/jungian-psychologist) | ⚠️ 部分可用 | 荣格心理学：阴影工作、原型分析、梦境解读。*(链接可能失效)* |
 | [adhd-assistant](https://clawskills.sh/skills/thinktankmachine-adhd-assistant) | ✅ 直接可用 | ADHD 友好的生活管理助手 |
-| [social-media-detox](https://clawskills.sh/skills/social-media-detox) | ✅ 直接可用 | 社交媒体戒瘾 + 数字健康 |
+| [social-media-detox](https://clawskills.sh/skills/social-media-detox) | ✅ 直接可用 | 社交媒体戒瘾 + 数字健康。*(链接可能失效)* |
 
 ---
 
@@ -175,7 +172,7 @@
 | [endurance-coach](https://clawskills.sh/skills/shiv19-endurance-coach) | ✅ 直接可用 | 个性化铁人三项/马拉松训练计划 |
 | [muscle-gain](https://clawskills.sh/skills/jhillin8-muscle-gain) | ✅ 直接可用 | 肌肉增长追踪 |
 | [hevy](https://clawskills.sh/skills/mjrussell-hevy) | ✅ 直接可用 | 健身数据查询（Hevy App） |
-| [strava-cycling-coach](https://clawskills.sh/skills/strava-cycling-coach) | ⚠️ 部分可用 | Strava 骑行分析（国内 Strava 可用但用户较少） |
+| [strava-cycling-coach](https://clawskills.sh/skills/strava-cycling-coach) | ⚠️ 部分可用 | Strava 骑行分析（国内 Strava 可用但用户较少）。*(链接可能失效)* |
 
 ---
 
@@ -183,7 +180,7 @@
 
 | 技能 | 可用性 | 说明 |
 |------|--------|------|
-| [pregnancy-tracker](https://clawskills.sh/skills/pregnancy-tracker) | ✅ 直接可用 | 孕期追踪：每周更新、症状记录、里程碑倒计时 |
+| [pregnancy-tracker](https://clawskills.sh/skills/pregnancy-tracker) | ✅ 直接可用 | 孕期追踪：每周更新、症状记录、里程碑倒计时。*(链接可能失效)* |
 | [huckleberry](https://clawskills.sh/skills/jayhickey-huckleberry) | ⚠️ 部分可用 | 婴儿睡眠/喂养/成长追踪（需 Huckleberry App） |
 
 ---
@@ -214,8 +211,8 @@
 
 | 技能 | 平台 | 说明 |
 |------|------|------|
-| [wechat-mcp](https://clawskills.sh/skills/wechat-mcp) | OpenClaw | Windows 微信桌面端 MCP 集成 — 消息监控、搜索联系人、发送消息 |
-| [wecom](https://clawskills.sh/skills/wecom) | OpenClaw | 通过 Webhook 向企业微信发送消息 |
+| [wechat-mcp](https://clawskills.sh/skills/wechat-mcp) | OpenClaw | Windows 微信桌面端 MCP 集成 — 消息监控、搜索联系人、发送消息。*(链接可能失效)* |
+| [wecom](https://clawskills.sh/skills/wecom) | OpenClaw | 通过 Webhook 向企业微信发送消息。*(链接可能失效)* |
 
 ---
 
@@ -225,6 +222,7 @@
 |------|-------|------|
 | [awesome-openclaw-skills-zh](https://github.com/clawdbot-ai/awesome-openclaw-skills-zh) | ![](https://img.shields.io/github/stars/clawdbot-ai/awesome-openclaw-skills-zh?style=flat-square) | OpenClaw **中文官方技能库**。按场景分类，支持中文调用。 |
 | [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | ![](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=flat-square) | 869 个医疗技能（港中文深圳团队） |
+| [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | ![](https://img.shields.io/github/stars/yzfly/Awesome-MCP-ZH?style=flat-square) | MCP 中文资源精选，含部分医疗相关 MCP 服务器索引。 |
 
 ---
 
