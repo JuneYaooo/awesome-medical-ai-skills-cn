@@ -5,7 +5,7 @@
 [![最后更新](https://img.shields.io/badge/最后更新-2026--03--22-blue.svg)](#)
 [![Skills 数量](https://img.shields.io/badge/Skills-80%2B-green.svg)](#)
 
-> 🌍 **Looking for international skills?** See [awesome-medical-ai-skills](https://github.com/yyj/awesome-medical-ai-skills) — International Edition: Garmin, Fitbit, WHOOP, Epic FHIR, etc.
+> 🌍 **Looking for international skills?** See [awesome-medical-ai-skills](https://github.com/JuneYaooo/awesome-medical-ai-skills) — International Edition: Garmin, Fitbit, WHOOP, Epic FHIR, etc.
 
 > 精选**国内可用**的医疗 & 健康 AI Agent Skills、MCP 服务器和工具合集。
 > 重点关注：**网络可达性** · **中文支持** · **国内平台生态** · **国内法规合规**
@@ -247,7 +247,7 @@
 
 ## 多智能体医疗系统
 
-> 💡 **说明**：以下为国际项目中对国内用户有参考价值的多智能体系统。它们本身不是国内项目，但架构和思路可供参考。更多多智能体系统见[国际版](https://github.com/yyj/awesome-medical-ai-skills#multi-agent-medical-systems)。
+> 💡 **说明**：以下为国际项目中对国内用户有参考价值的多智能体系统。它们本身不是国内项目，但架构和思路可供参考。更多多智能体系统见[国际版](https://github.com/JuneYaooo/awesome-medical-ai-skills#multi-agent-medical-systems)。
 
 | 项目 | 可用性 | Stars | 说明 |
 |------|--------|-------|------|
