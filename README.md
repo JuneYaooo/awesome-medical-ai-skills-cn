@@ -54,7 +54,7 @@
 - [孕婴健康](#孕婴健康)
 - [医疗器械合规](#医疗器械合规)
 - [生物医学研究](#生物医学研究)
-- [多智能体医疗系统](#多智能体医疗系统)
+- [多智能体医疗系统（参考）](#多智能体医疗系统)
 - [技能合集与资源](#技能合集与资源)
 
 ---
@@ -82,8 +82,7 @@
 | [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT) | ![](https://img.shields.io/github/stars/FreedomIntelligence/HuatuoGPT?style=flat-square) | 港中文深圳 | 华佗 GPT — 面向医疗场景的开源中文医疗大模型。支持问诊对话、医学知识问答。 |
 | [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1) | ![](https://img.shields.io/github/stars/FreedomIntelligence/HuatuoGPT-o1?style=flat-square) | 港中文深圳 | 医疗领域复杂推理能力，Medical o1 思路。 |
 | [DISC-MedLLM](https://github.com/FudanDISC/DISC-MedLLM) | ![](https://img.shields.io/github/stars/FudanDISC/DISC-MedLLM?style=flat-square) | 复旦 DISC | 面向医疗健康对话的大语言模型。智能问诊、医疗知识问答、病历结构化。 |
-| [MedgeClaw](https://github.com/xjtulyc/MedgeClaw) | ![](https://img.shields.io/github/stars/xjtulyc/MedgeClaw?style=flat-square) | 西安交大 | 生物医学 AI 研究助手 — 通过对话运行 RNA-seq、药物发现、临床分析等。基于 Claude Code 构建，140+ K-Dense 科学技能。 |
-| [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | ![](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=flat-square) | 港中文深圳 | 869 个医疗 AI Agent 技能：临床工作流、基因组学、药物发现、法规合规。OpenClaw 平台。 |
+| [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | ![](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=flat-square) | 港中文深圳 | 869 个医疗 AI Agent 技能文档（SKILL.md 格式）：临床工作流、基因组学、药物发现、法规合规。供 OpenClaw/NanoClaw 平台安装使用，非独立可执行工具。 |
 | [Chinese-clinical-NER](https://github.com/MenglinLu/Chinese-clinical-NER) | ![](https://img.shields.io/github/stars/MenglinLu/Chinese-clinical-NER?style=flat-square) | — | CCKS2019 中文命名实体识别：从医疗文本中识别疾病、解剖部位、影像检查、实验室检验、手术和药物 6 种实体。 |
 
 ---
@@ -130,7 +129,7 @@
 
 | 项目 | 可用性 | Stars | 说明 |
 |------|--------|-------|------|
-| [SoDiaoEditor](https://github.com/tlzzu/SoDiaoEditor) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/tlzzu/SoDiaoEditor?style=flat-square) | 电子病历编辑器。**已在多家三甲医院上线**，持续维护中。 |
+| [SoDiaoEditor](https://github.com/tlzzu/SoDiaoEditor) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/tlzzu/SoDiaoEditor?style=flat-square) | 通用结构化文档编辑器，**被多家三甲医院采用作为电子病历编辑器**。支持模板、结构化数据录入。非医疗专用，但在 EMR 场景中广泛使用。持续维护中。 |
 | [HIS（ZainZhao）](https://github.com/ZainZhao/HIS) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/ZainZhao/HIS?style=flat-square) | 医院信息系统。门诊/药房/财务/患者管理工作站。Spring Boot。 |
 | [HIS（TANGKUO）](https://github.com/TANGKUO/HIS) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/TANGKUO/HIS?style=flat-square) | 医院信息系统。临床诊疗、药品管理、财务管理、患者管理。 |
 | [云医疗管理系统](https://github.com/Rain-Ricky/cloud) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/Rain-Ricky/cloud?style=flat-square) | 网上挂号、在线问诊、诊断报告查询、费用缴纳。Spring Boot + 前后端分离。 |
@@ -240,19 +239,19 @@
 
 | 项目 | 可用性 | Stars | 说明 |
 |------|--------|-------|------|
-| [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills?style=flat-square) | 170+ 科学技能。生物信息学、化学信息学部分技能国内可用（本地计算为主）。 |
-| [MedgeClaw](https://github.com/xjtulyc/MedgeClaw) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/xjtulyc/MedgeClaw?style=flat-square) | 西安交大 — 生物医学 AI 研究助手。RNA-seq、药物发现、临床分析。基于 Claude Code。 |
+| [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills?style=flat-square) | 170+ 科学技能文档（SKILL.md 格式），需通过 Claude Code / Cursor 等平台安装使用。生物信息学、化学信息学部分技能国内可用（本地计算为主）。 |
+| [MedgeClaw](https://github.com/xjtulyc/MedgeClaw) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/xjtulyc/MedgeClaw?style=flat-square) | 西安交大 — 生物医学 AI **研究编排助手**（非大模型本身）。通过对话调用 RNA-seq、药物发现、临床分析等 140+ K-Dense 科学技能。基于 Claude Code 构建。 |
 | [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) | ⚠️ 部分可用 | — | 个人基因组分析。支持 23andMe/AncestryDNA（国内可用微基因、23魔方等替代）。 |
 
 ---
 
 ## 多智能体医疗系统
 
+> 💡 **说明**：以下为国际项目中对国内用户有参考价值的多智能体系统。它们本身不是国内项目，但架构和思路可供参考。更多多智能体系统见[国际版](https://github.com/yyj/awesome-medical-ai-skills#multi-agent-medical-systems)。
+
 | 项目 | 可用性 | Stars | 说明 |
 |------|--------|-------|------|
-| [Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) | 🔧 需适配 | ![](https://img.shields.io/github/stars/souvikmajumder26/Multi-Agent-Medical-Assistant?style=flat-square) | 多智能体诊断和医疗研究聊天机器人 |
-| [medgraph-ai](https://github.com/asanmateu/medgraph-ai) | 🔧 需适配 | — | Neo4j 知识图谱 + RAG 的医疗问答 |
-| [SOLVE-Med](https://github.com/PRAISELab-PicusLab/SOLVE-Med) | ✅ 直接可用 | — | 面向隐私的多智能体医疗问答，可离线运行。 |
+| [cyber-doctor（赛博华佗）](https://github.com/Warma10032/cyber-doctor) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/Warma10032/cyber-doctor?style=flat-square) | 国内社区开发的多模态医疗智能体，支持本地部署，可接入知识图谱。（也见[临床决策支持](#临床决策支持)） |
 
 ---
 
