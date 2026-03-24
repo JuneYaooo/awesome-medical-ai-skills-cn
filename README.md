@@ -202,6 +202,7 @@
 | [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills?style=flat-square) | 170+ 科学技能文档（SKILL.md 格式），需通过 Claude Code / Cursor 等平台安装使用。生物信息学、化学信息学部分技能国内可用（本地计算为主）。 |
 | [med-stats-skills](https://github.com/chenhaodev/med-stats-skills) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/chenhaodev/med-stats-skills?style=flat-square) | 中国开发者维护的 OpenCode 医学统计与临床试验方法技能集。覆盖预测模型、验证、试验质量评估、临床数据管理，附模板、清单和 R/Python 示例。 |
 | [MedgeClaw](https://github.com/xjtulyc/MedgeClaw) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/xjtulyc/MedgeClaw?style=flat-square) | 西安交大 — 生物医学 AI **研究编排助手**（非大模型本身）。通过对话调用 RNA-seq、药物发现、临床分析等 140+ K-Dense 科学技能。基于 Claude Code 构建。 |
+| [automedsci](https://github.com/Jay-Chen79/automedsci) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/Jay-Chen79/automedsci?style=flat-square) | 中文/英文双语的医学科研论文 AI 流水线。157 条实战规则 + 12 个技能工作流，覆盖选题、方案、分析、写作、交叉审稿和投稿检查；纯 Markdown、零依赖。 |
 | [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) | ⚠️ 部分可用 | — | 个人基因组分析。支持 23andMe/AncestryDNA（国内可用微基因、23魔方等替代）。 |
 
 ---
