@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![最后更新](https://img.shields.io/badge/最后更新-2026--03--22-blue.svg)](#)
+[![最后更新](https://img.shields.io/badge/最后更新-2026--03--24-blue.svg)](#)
 [![Skills 数量](https://img.shields.io/badge/Skills-80%2B-green.svg)](#)
 
 > 🌍 **Looking for international skills?** See [awesome-medical-ai-skills](https://github.com/JuneYaooo/awesome-medical-ai-skills) — International Edition: Garmin, Fitbit, WHOOP, Epic FHIR, etc.
@@ -200,6 +200,7 @@
 | 项目 | 可用性 | Stars | 说明 |
 |------|--------|-------|------|
 | [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills?style=flat-square) | 170+ 科学技能文档（SKILL.md 格式），需通过 Claude Code / Cursor 等平台安装使用。生物信息学、化学信息学部分技能国内可用（本地计算为主）。 |
+| [med-stats-skills](https://github.com/chenhaodev/med-stats-skills) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/chenhaodev/med-stats-skills?style=flat-square) | 中国开发者维护的 OpenCode 医学统计与临床试验方法技能集。覆盖预测模型、验证、试验质量评估、临床数据管理，附模板、清单和 R/Python 示例。 |
 | [MedgeClaw](https://github.com/xjtulyc/MedgeClaw) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/xjtulyc/MedgeClaw?style=flat-square) | 西安交大 — 生物医学 AI **研究编排助手**（非大模型本身）。通过对话调用 RNA-seq、药物发现、临床分析等 140+ K-Dense 科学技能。基于 Claude Code 构建。 |
 | [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) | ⚠️ 部分可用 | — | 个人基因组分析。支持 23andMe/AncestryDNA（国内可用微基因、23魔方等替代）。 |
 
