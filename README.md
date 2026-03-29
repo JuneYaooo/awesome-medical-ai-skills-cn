@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![最后更新](https://img.shields.io/badge/最后更新-2026--03--28-blue.svg)](#)
+[![最后更新](https://img.shields.io/badge/最后更新-2026--03--29-blue.svg)](#)
 [![Skills 数量](https://img.shields.io/badge/Skills-80%2B-green.svg)](#)
 
 > 🌍 **Looking for international skills?** See [awesome-medical-ai-skills](https://github.com/JuneYaooo/awesome-medical-ai-skills) — International Edition: Garmin, Fitbit, WHOOP, Epic FHIR, etc.
@@ -67,6 +67,7 @@
 |------|------|--------|-------|------|
 | [medical-guidelines-suite](https://github.com/fshaan/medical-guidelines-suite) | Claude Code | ✅ 直接可用 | ![](https://img.shields.io/github/stars/fshaan/medical-guidelines-suite?style=flat-square) | 临床指南知识库构建 + 跨指南 RAG 检索 + 批量患者报告生成。**中文输出**。支持 NCCN、ESMO、CSCO 指南。生成 xlsx/docx/pptx 报告。 |
 | [mediwise-health-suite](https://github.com/JuneYaooo/mediwise-health-suite) | OpenClaw | ✅ 直接可用 | ![](https://img.shields.io/github/stars/JuneYaooo/mediwise-health-suite?style=flat-square) | **家庭健康管理套件** — 健康档案、饮食追踪、体重管理、用药提醒、就医前摘要生成。支持多家庭成员隔离、图片识别化验单。本地 SQLite 存储，保护隐私。**中文原生**。 |
+| [family-doctor](https://github.com/Yungho/family-doctor) | Claude Code / OpenClaw | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/Yungho/family-doctor?style=flat-square) | AI 家庭医生技能套件。25 个技能覆盖慢病管理、症状分诊、用药、睡眠、心理、家族史和预防保健；支持 Markdown+JSON 健康档案、自动关联分析与中文文档。 |
 | [WellAlly-health](https://github.com/huifer/WellAlly-health) | Claude Code | ✅ 直接可用 | — | 个人健康档案管理。13 个专科咨询模拟、药物相互作用检测（A/B/C/D/X 五级）、辐射剂量追踪。**中英双语**。*(原名 Claude-Ally-Health)* |
 
 **[→ 临床技能详情](categories/临床技能.md)**
