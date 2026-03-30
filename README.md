@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![最后更新](https://img.shields.io/badge/最后更新-2026--03--29-blue.svg)](#)
+[![最后更新](https://img.shields.io/badge/最后更新-2026--03--30-blue.svg)](#)
 [![Skills 数量](https://img.shields.io/badge/Skills-80%2B-green.svg)](#)
 
 > 🌍 **Looking for international skills?** See [awesome-medical-ai-skills](https://github.com/JuneYaooo/awesome-medical-ai-skills) — International Edition: Garmin, Fitbit, WHOOP, Epic FHIR, etc.
@@ -108,6 +108,7 @@
 | 技能 | 平台 | 可用性 | 说明 |
 |------|------|--------|------|
 | [apple-health-skill](https://clawskills.sh/skills/nftechie-apple-health-skill) | OpenClaw | ✅ 直接可用 | Apple Health 数据查询（国内 iPhone 用户可用） |
+| [apple-health-analyst](https://github.com/RuochenLyu/apple-health-analyst) | Claude Code / Multi | ✅ 直接可用 | ![](https://img.shields.io/github/stars/RuochenLyu/apple-health-analyst?style=flat-square) 本地解析 Apple Health 导出 ZIP，自动生成中英文健康报告，覆盖睡眠-恢复关联分析、行为模式识别与可解释评分。 |
 | [healthkit-sync](https://clawskills.sh/skills/mneves75-healthkit-sync) | OpenClaw | ✅ 直接可用 | iOS HealthKit 数据同步 |
 | [health-sync](https://clawskills.sh/skills/filipe-m-almeida-health-sync) | OpenClaw | ⚠️ 部分可用 | 多设备数据聚合（Oura/Withings/WHOOP 等，部分国内可用） |
 | [health-summary](https://clawskills.sh/skills/yusaku-0426-health-summary) | OpenClaw | ✅ 直接可用 | 健康数据汇总报告生成 |
