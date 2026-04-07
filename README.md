@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![最后更新](https://img.shields.io/badge/最后更新-2026--04--04-blue.svg)](#)
+[![最后更新](https://img.shields.io/badge/最后更新-2026--04--07-blue.svg)](#)
 [![Skills 数量](https://img.shields.io/badge/Skills-80%2B-green.svg)](#)
 
 > 🌍 **Looking for international skills?** See [awesome-medical-ai-skills](https://github.com/JuneYaooo/awesome-medical-ai-skills) — International Edition: Garmin, Fitbit, WHOOP, Epic FHIR, etc.
@@ -84,6 +84,7 @@
 | [medical-mcp](https://github.com/JamesANZ/medical-mcp) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/JamesANZ/medical-mcp?style=flat-square) | FDA 药物、WHO 统计、PubMed 检索。Google Scholar 部分在国内不可用。本地部署无需 API 密钥。 |
 | [OMOP MCP](https://github.com/OHNLP/omop_mcp) | ⚠️ 部分可用 | — | 临床术语到 OMOP 概念映射。需要 API Key。对接 LOINC、SNOMED 等国际标准。 |
 | [mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/andybrandt/mcp-simple-pubmed?style=flat-square) | PubMed 文献搜索。PubMed 在国内可直接访问。 |
+| [suppr-mcp](https://github.com/WildDataX/suppr-mcp) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/WildDataX/suppr-mcp?style=flat-square) | 面向中文用户的 PubMed / 文档翻译 MCP。支持 PDF、DOCX、PPTX 等文档高保真翻译和 PubMed 语义检索，npm 包与 Claude Desktop 配置完整，需 API Key。 |
 
 ---
 
