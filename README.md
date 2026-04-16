@@ -85,6 +85,7 @@
 | [OMOP MCP](https://github.com/OHNLP/omop_mcp) | ⚠️ 部分可用 | — | 临床术语到 OMOP 概念映射。需要 API Key。对接 LOINC、SNOMED 等国际标准。 |
 | [mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/andybrandt/mcp-simple-pubmed?style=flat-square) | PubMed 文献搜索。PubMed 在国内可直接访问。 |
 | [suppr-mcp](https://github.com/WildDataX/suppr-mcp) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/WildDataX/suppr-mcp?style=flat-square) | 面向中文用户的 PubMed / 文档翻译 MCP。支持 PDF、DOCX、PPTX 等文档高保真翻译和 PubMed 语义检索，npm 包与 Claude Desktop 配置完整，需 API Key。 |
+| [ChiCTR MCP Server](https://github.com/PancrePal-xiaoyibao/chictr-mcp-server) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/PancrePal-xiaoyibao/chictr-mcp-server?style=flat-square) | 面向中国临床试验注册中心（ChiCTR）的 MCP 服务器。支持标题/注册号/年份搜索、详情抓取、SQLite 双层缓存与验证码恢复工具；频繁请求时可能需人工处理验证。 |
 
 ---
 
@@ -123,6 +124,7 @@
 |------|--------|------|
 | [garmin-health](https://clawskills.sh/skills/eversonl-garmin-health-analysis) | ✅ 直接可用 | 自然语言查询 Garmin 数据 — 20+ 指标 |
 | [garmin-cli](https://clawskills.sh/skills/voydz-garmin-cli) | ✅ 直接可用 | Garmin Connect CLI |
+| [garmin-connect-health](https://github.com/dw1161/garmin-connect-health) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/dw1161/garmin-connect-health?style=flat-square) OpenClaw 的 Garmin Connect 全量健康数据 Skill，可查询 40+ 指标（睡眠、HRV、SpO2、VO2 Max 等），支持缓存和多种认证方式。 |
 
 ### 其他国际设备（国内部分可用）
 
