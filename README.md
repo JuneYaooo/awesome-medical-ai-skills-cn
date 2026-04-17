@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![最后更新](https://img.shields.io/badge/最后更新-2026--04--07-blue.svg)](#)
+[![最后更新](https://img.shields.io/badge/最后更新-2026--04--17-blue.svg)](#)
 [![Skills 数量](https://img.shields.io/badge/Skills-80%2B-green.svg)](#)
 
 > 🌍 **Looking for international skills?** See [awesome-medical-ai-skills](https://github.com/JuneYaooo/awesome-medical-ai-skills) — International Edition: Garmin, Fitbit, WHOOP, Epic FHIR, etc.
@@ -68,6 +68,7 @@
 | [medical-guidelines-suite](https://github.com/fshaan/medical-guidelines-suite) | Claude Code | ✅ 直接可用 | ![](https://img.shields.io/github/stars/fshaan/medical-guidelines-suite?style=flat-square) | 临床指南知识库构建 + 跨指南 RAG 检索 + 批量患者报告生成。**中文输出**。支持 NCCN、ESMO、CSCO 指南。生成 xlsx/docx/pptx 报告。 |
 | [mediwise-health-suite](https://github.com/JuneYaooo/mediwise-health-suite) | OpenClaw | ✅ 直接可用 | ![](https://img.shields.io/github/stars/JuneYaooo/mediwise-health-suite?style=flat-square) | **家庭健康管理套件** — 健康档案、饮食追踪、体重管理、用药提醒、就医前摘要生成。支持多家庭成员隔离、图片识别化验单。本地 SQLite 存储，保护隐私。**中文原生**。 |
 | [family-doctor](https://github.com/Yungho/family-doctor) | Claude Code / OpenClaw | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/Yungho/family-doctor?style=flat-square) | AI 家庭医生技能套件。25 个技能覆盖慢病管理、症状分诊、用药、睡眠、心理、家族史和预防保健；支持 Markdown+JSON 健康档案、自动关联分析与中文文档。 |
+| [抗癌搭子 / cancer-buddy-skill](https://github.com/CancerDAO/cancer-buddy-skill) | Claude Code | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/CancerDAO/cancer-buddy-skill?style=flat-square) | 面向癌症患者全程支持的 Claude Code Skill。覆盖病理/基因报告解读、8 维治疗路径梳理、ClinicalTrials.gov + ChiCTR 试验匹配、扩展准入导航与患者教育；仓库含 `SKILL.md`、安装文档和参考资料。 |
 | [WellAlly-health](https://github.com/huifer/WellAlly-health) | Claude Code | ✅ 直接可用 | — | 个人健康档案管理。13 个专科咨询模拟、药物相互作用检测（A/B/C/D/X 五级）、辐射剂量追踪。**中英双语**。*(原名 Claude-Ally-Health)* |
 
 **[→ 临床技能详情](categories/临床技能.md)**
@@ -86,6 +87,7 @@
 | [mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/andybrandt/mcp-simple-pubmed?style=flat-square) | PubMed 文献搜索。PubMed 在国内可直接访问。 |
 | [suppr-mcp](https://github.com/WildDataX/suppr-mcp) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/WildDataX/suppr-mcp?style=flat-square) | 面向中文用户的 PubMed / 文档翻译 MCP。支持 PDF、DOCX、PPTX 等文档高保真翻译和 PubMed 语义检索，npm 包与 Claude Desktop 配置完整，需 API Key。 |
 | [ChiCTR MCP Server](https://github.com/PancrePal-xiaoyibao/chictr-mcp-server) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/PancrePal-xiaoyibao/chictr-mcp-server?style=flat-square) | 面向中国临床试验注册中心（ChiCTR）的 MCP 服务器。支持标题/注册号/年份搜索、详情抓取、SQLite 双层缓存与验证码恢复工具；频繁请求时可能需人工处理验证。 |
+| [pharmacy-mcp](https://github.com/u9401066/pharmacy-mcp) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/u9401066/pharmacy-mcp?style=flat-square) | 药品信息与剂量计算 MCP 服务器。支持药品搜索、相互作用/食物冲突检查，整合 RxNorm、openFDA、DailyMed 以及台湾 TFDA / 健保开放数据；仓库含 `src/`、`tests/`、架构文档和繁中说明。 |
 
 ---
 
