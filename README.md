@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![最后更新](https://img.shields.io/badge/最后更新-2026--04--17-blue.svg)](#)
+[![最后更新](https://img.shields.io/badge/最后更新-2026--04--18-blue.svg)](#)
 [![Skills 数量](https://img.shields.io/badge/Skills-80%2B-green.svg)](#)
 
 > 🌍 **Looking for international skills?** See [awesome-medical-ai-skills](https://github.com/JuneYaooo/awesome-medical-ai-skills) — International Edition: Garmin, Fitbit, WHOOP, Epic FHIR, etc.
@@ -211,6 +211,7 @@
 | [OpenBioMed Skills](https://github.com/PharMolix/OpenBioMed) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/PharMolix/OpenBioMed?style=flat-square) | PharMolix 与清华 AIR 联合发布的生物医药 Agent 平台，含 45 个可安装技能，覆盖药物发现、蛋白工程、单细胞组学。仓库自带 `skills/` 目录和工作流，但部分模型/依赖需自行准备环境。 |
 | [M4](https://github.com/hannesill/m4) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/hannesill/m4?style=flat-square) | 面向 MIMIC-IV、eICU 等临床研究数据的 AI 基础设施。提供 MCP / Python 工具接口、测试和文档，适合本地或自托管科研分析。 |
 | [med-stats-skills](https://github.com/chenhaodev/med-stats-skills) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/chenhaodev/med-stats-skills?style=flat-square) | 中国开发者维护的 OpenCode 医学统计与临床试验方法技能集。覆盖预测模型、验证、试验质量评估、临床数据管理，附模板、清单和 R/Python 示例。 |
+| [bioinformatics-god-skill](https://github.com/zwbao/bioinformatics-god-skill) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/zwbao/bioinformatics-god-skill?style=flat-square) | 中文生信 Agent Skill。以 `SKILL.md` + references 形式沉淀 50 位顶级学者的方法论，适合单细胞、RNA-seq、癌症基因组学等流程的方案比较、结果复核和方法选择。 |
 | [MedgeClaw](https://github.com/xjtulyc/MedgeClaw) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/xjtulyc/MedgeClaw?style=flat-square) | 西安交大 — 生物医学 AI **研究编排助手**（非大模型本身）。通过对话调用 RNA-seq、药物发现、临床分析等 140+ K-Dense 科学技能。基于 Claude Code 构建。 |
 | [ScienceClaw](https://github.com/AgentTeam-TaichuAI/ScienceClaw) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/AgentTeam-TaichuAI/ScienceClaw?style=flat-square) | 太初团队维护的科研智能体平台，内置 1900+ 科学工具与 Skills，覆盖 PubMed 检索、药物发现、生信分析和多格式内容生成。提供前后端、任务调度与沙箱，支持本地/自托管部署。 |
 | [automedsci](https://github.com/Jay-Chen79/automedsci) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/Jay-Chen79/automedsci?style=flat-square) | 中文/英文双语的医学科研论文 AI 流水线。157 条实战规则 + 12 个技能工作流，覆盖选题、方案、分析、写作、交叉审稿和投稿检查；纯 Markdown、零依赖。 |
