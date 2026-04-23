@@ -127,6 +127,7 @@
 | [garmin-health](https://clawskills.sh/skills/eversonl-garmin-health-analysis) | ✅ 直接可用 | 自然语言查询 Garmin 数据 — 20+ 指标 |
 | [garmin-cli](https://clawskills.sh/skills/voydz-garmin-cli) | ✅ 直接可用 | Garmin Connect CLI |
 | [garmin-connect-health](https://github.com/dw1161/garmin-connect-health) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/dw1161/garmin-connect-health?style=flat-square) OpenClaw 的 Garmin Connect 全量健康数据 Skill，可查询 40+ 指标（睡眠、HRV、SpO2、VO2 Max 等），支持缓存和多种认证方式。 |
+| [Garmin MCP App](https://github.com/chenhunghan/garmin-mcp-app) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/chenhunghan/garmin-mcp-app?style=flat-square) Claude Desktop 的 Garmin MCP 应用，登录 Garmin Connect 后可查询睡眠、HRV、训练负荷、VO2 Max 等数据，并在对话中渲染交互式图表与训练日历。 |
 
 ### 其他国际设备（国内部分可用）
 
