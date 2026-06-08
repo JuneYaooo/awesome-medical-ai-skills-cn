@@ -88,6 +88,7 @@
 | [suppr-mcp](https://github.com/WildDataX/suppr-mcp) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/WildDataX/suppr-mcp?style=flat-square) | 面向中文用户的 PubMed / 文档翻译 MCP。支持 PDF、DOCX、PPTX 等文档高保真翻译和 PubMed 语义检索，npm 包与 Claude Desktop 配置完整，需 API Key。 |
 | [ChiCTR MCP Server](https://github.com/PancrePal-xiaoyibao/chictr-mcp-server) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/PancrePal-xiaoyibao/chictr-mcp-server?style=flat-square) | 面向中国临床试验注册中心（ChiCTR）的 MCP 服务器。支持标题/注册号/年份搜索、详情抓取、SQLite 双层缓存与验证码恢复工具；频繁请求时可能需人工处理验证。 |
 | [pharmacy-mcp](https://github.com/u9401066/pharmacy-mcp) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/u9401066/pharmacy-mcp?style=flat-square) | 药品信息与剂量计算 MCP 服务器。支持药品搜索、相互作用/食物冲突检查，整合 RxNorm、openFDA、DailyMed 以及台湾 TFDA / 健保开放数据；仓库含 `src/`、`tests/`、架构文档和繁中说明。 |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz/) | ⭐⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/twzrd-sol/wzrd-final?style=flat-square) | AI 智能体信任评分 MCP 服务器（基于 Solana）— 在 x402 微支付之前验证代理钱包身份。免费工具：`resolve_agent`、`score_agent`、`preflight_check`。远程流式 HTTP。PyPI: `twzrd-agent-intel`. |
 
 ---
 
