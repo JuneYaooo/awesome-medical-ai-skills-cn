@@ -88,6 +88,8 @@
 | [suppr-mcp](https://github.com/WildDataX/suppr-mcp) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/WildDataX/suppr-mcp?style=flat-square) | 面向中文用户的 PubMed / 文档翻译 MCP。支持 PDF、DOCX、PPTX 等文档高保真翻译和 PubMed 语义检索，npm 包与 Claude Desktop 配置完整，需 API Key。 |
 | [ChiCTR MCP Server](https://github.com/PancrePal-xiaoyibao/chictr-mcp-server) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/PancrePal-xiaoyibao/chictr-mcp-server?style=flat-square) | 面向中国临床试验注册中心（ChiCTR）的 MCP 服务器。支持标题/注册号/年份搜索、详情抓取、SQLite 双层缓存与验证码恢复工具；频繁请求时可能需人工处理验证。 |
 | [pharmacy-mcp](https://github.com/u9401066/pharmacy-mcp) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/u9401066/pharmacy-mcp?style=flat-square) | 药品信息与剂量计算 MCP 服务器。支持药品搜索、相互作用/食物冲突检查，整合 RxNorm、openFDA、DailyMed 以及台湾 TFDA / 健保开放数据；仓库含 `src/`、`tests/`、架构文档和繁中说明。 |
+| [pubmed-mcp-server](https://github.com/cyanheads/pubmed-mcp-server) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/cyanheads/pubmed-mcp-server?style=flat-square) | PubMed/Europe PMC 搜索 MCP Server — 检索文章、获取全文、引用信息、MeSH 词汇查询。PubMed 源在国内可正常访问。 |
+| [BioMCP](https://github.com/genomoncology/biomcp) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/genomoncology/biomcp?style=flat-square) | BioMCP：生物医学 Model Context Protocol 服务器 — 连接 AI agent 与基因组学、变异注释、药物靶点等生物医学数据源。 |
 
 ---
 
@@ -144,6 +146,7 @@
 |------|--------|------|
 | [maccabi-pharm-search](https://clawskills.sh/skills/alexpolonsky-maccabi-pharm-search) | 🔧 需适配 | 以色列药房库存查询（可参考开发国内版） |
 | [admet-prediction](https://clawskills.sh/skills/huifer-admet-prediction) | ✅ 直接可用 | 药物 ADMET 预测（本地计算） |
+| [clinicaltrialsgov-mcp-server](https://github.com/cyanheads/clinicaltrialsgov-mcp-server) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/cyanheads/clinicaltrialsgov-mcp-server?style=flat-square) | ClinicalTrials.gov MCP Server — 搜索临床试验、获取研究详情和结果、匹配患者到符合条件的试验。ClinicalTrials.gov 在国内可直接访问。 |
 
 > 💡 **缺口**：国内缺少 NMPA 药品数据查询、国家基本药物目录查询、医保目录查询等 Agent Skill。欢迎贡献！
 
@@ -219,6 +222,9 @@
 | [Bioclaw Skills Hub](https://github.com/zongtingwei/Bioclaw_Skills_Hub) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/zongtingwei/Bioclaw_Skills_Hub?style=flat-square) | 面向生物信息学与组学工作流的官方技能库。仓库包含 `skills/` 目录、分类目录和中英文文档，便于在 BioClaw 或通用 AI Agent 中复用。 |
 | [AI_Bioinformatic](https://github.com/Jack123-Wang/AI_Bioinformatic) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/Jack123-Wang/AI_Bioinformatic?style=flat-square) | 面向 Claude 的生物信息学 Agent Skill 合集。已提供 GEO/TCGA/CGGA 多数据库检索和 scRNA-seq 细胞注释工作流，输出 Excel 报告与 R 可视化代码。 |
 | [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) | ⚠️ 部分可用 | — | 个人基因组分析。支持 23andMe/AncestryDNA（国内可用微基因、23魔方等替代）。 |
+| [ClawBio](https://github.com/ClawBio/ClawBio) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/ClawBio/ClawBio?style=flat-square) | 首个面向生物信息学的 AI agent 技能库。本地优先、可复现。涵盖基因组学、蛋白质组学、转录组学分析 workflow。GitHub 依赖部分受限，本地运行正常。 |
+| [medical-research-skills](https://github.com/aipoch/medical-research-skills) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/aipoch/medical-research-skills?style=flat-square) | 数百个医学研究 Agent 技能，涵盖方案设计、数据分析、证据整合、论文写作等。PubMed/GEO 等数据源在国内可正常访问。 |
+| [medsci-skills](https://github.com/Aperivue/medsci-skills) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/Aperivue/medsci-skills?style=flat-square) | Claude Code 医学研究技能集 — 文献检索、研究报告规范、统计分析。PubMed/Europe PMC 检索在国内正常。 |
 
 ---
 
@@ -230,6 +236,7 @@
 |------|------|------|
 | [wechat-mcp](https://clawskills.sh/skills/wechat-mcp) | OpenClaw | Windows 微信桌面端 MCP 集成 — 消息监控、搜索联系人、发送消息。*(链接可能失效)* |
 | [wecom](https://clawskills.sh/skills/wecom) | OpenClaw | 通过 Webhook 向企业微信发送消息。*(链接可能失效)* |
+| [medharness](https://github.com/charliehzm/medharness) | ✅ 直接可用 | ![](https://img.shields.io/github/stars/charliehzm/medharness?style=flat-square) | 医疗 LLM 流量管控平台 — PHI 不外泄、模型白名单、全量可审计、成本可控。专为中国医疗机构大模型部署场景设计。 |
 
 ---
 
@@ -240,6 +247,7 @@
 | [awesome-openclaw-skills-zh](https://github.com/clawdbot-ai/awesome-openclaw-skills-zh) | ![](https://img.shields.io/github/stars/clawdbot-ai/awesome-openclaw-skills-zh?style=flat-square) | OpenClaw **中文官方技能库**。按场景分类，支持中文调用。 |
 | [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | ![](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=flat-square) | 869 个医疗技能（港中文深圳团队） |
 | [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | ![](https://img.shields.io/github/stars/yzfly/Awesome-MCP-ZH?style=flat-square) | MCP 中文资源精选，含部分医疗相关 MCP 服务器索引。 |
+| [awesome-medical-mcp-servers](https://github.com/sunanhe/awesome-medical-mcp-servers) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/sunanhe/awesome-medical-mcp-servers?style=flat-square) | 医疗 MCP 服务器合集 — 收录 PubMed、FHIR、DICOM、ClinicalTrials 等常用医学 MCP 服务器，分类索引方便查询。 |
 
 ---
 
