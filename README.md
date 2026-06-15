@@ -225,6 +225,8 @@
 | [ClawBio](https://github.com/ClawBio/ClawBio) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/ClawBio/ClawBio?style=flat-square) | 首个面向生物信息学的 AI agent 技能库。本地优先、可复现。涵盖基因组学、蛋白质组学、转录组学分析 workflow。GitHub 依赖部分受限，本地运行正常。 |
 | [medical-research-skills](https://github.com/aipoch/medical-research-skills) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/aipoch/medical-research-skills?style=flat-square) | 数百个医学研究 Agent 技能，涵盖方案设计、数据分析、证据整合、论文写作等。PubMed/GEO 等数据源在国内可正常访问。 |
 | [medsci-skills](https://github.com/Aperivue/medsci-skills) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/Aperivue/medsci-skills?style=flat-square) | Claude Code 医学研究技能集 — 文献检索、研究报告规范、统计分析。PubMed/Europe PMC 检索在国内正常。 |
+| [bioSkills](https://github.com/GPTomics/bioSkills) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/GPTomics/bioSkills?style=flat-square) | 面向生物信息学的 SKILLS.md 合集，用于 Claude Code 等 agent 进行基因组学、转录组学、蛋白质组学分析。本地运行，部分数据库需国际访问。 |
+| [ScienceClaw](https://github.com/beita6969/ScienceClaw) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/beita6969/ScienceClaw?style=flat-square) | 🔬 自进化 AI 科研伙伴，285 个科学技能，零幻觉，持久记忆。涵盖生物医学、化学、物理等领域的研究技能。 |
 
 ---
 
