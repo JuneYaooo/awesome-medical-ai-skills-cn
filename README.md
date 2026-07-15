@@ -100,6 +100,7 @@
 | 项目 | 可用性 | Stars | 说明 |
 |------|--------|-------|------|
 | *(暂无可用项目)* | | | 基于 Perplexity API 的中医健康视频制作等项目曾在 OpenClaw 上线，但目前链接已失效。 |
+| [nihaixia-app](https://github.com/jangviktor-web/nihaixia-app) | — | ✅ 直接可用 | ![](https://img.shields.io/github/stars/jangviktor-web/nihaixia-app?style=flat-square) | 倪海厦汉唐中医AI安卓诊断APP - 基于倪海厦天纪、地纪、人纪、伤寒论、金匮要略、黄帝内经、神农本草经、历史医案、六经辨证体系的安卓中医诊断助手 | TCM Diagnosis App based on Ni Haisha's Six Meridian theory |
 
 > 💡 **社区招募**：中医药 AI 是一个极具潜力但资源稀缺的方向。如果你有中医知识图谱、方剂数据库、辨证论治 Agent 等项目，欢迎提交 PR！
 
