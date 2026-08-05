@@ -102,6 +102,7 @@
 | *(暂无可用项目)* | | | 基于 Perplexity API 的中医健康视频制作等项目曾在 OpenClaw 上线，但目前链接已失效。 |
 | [nihaixia-app](https://github.com/jangviktor-web/nihaixia-app) | — | ✅ 直接可用 | ![](https://img.shields.io/github/stars/jangviktor-web/nihaixia-app?style=flat-square) | 倪海厦汉唐中医AI安卓诊断APP - 基于倪海厦天纪、地纪、人纪、伤寒论、金匮要略、黄帝内经、神农本草经、历史医案、六经辨证体系的安卓中医诊断助手 | TCM Diagnosis App based on Ni Haisha's Six Meridian theory |
 | [nihaisha-nishi-tcm](https://github.com/JuneYaooo/nihaisha-nishi-tcm) | Claude Code | ✅ 直接可用 | ![](https://img.shields.io/github/stars/JuneYaooo/nihaisha-nishi-tcm?style=flat-square) | 倪海厦中医课程 Agent Skill — 支持课程检索、方证穴位辨析、本草药物查询、学习笔记整理与板书截图证据索引。200+ 经典经方结构化临床数据，本地运行。 |
+| [huxishu](https://github.com/jangviktor-web/huxishu) | — | ✅ 直接可用 | ![](https://img.shields.io/github/stars/jangviktor-web/huxishu?style=flat-square) | 胡希恕（1898-1984）经方临床AI技能 — 将经方传道第一人的六经八纲辨证体系注入AI Agent。基于38万字中日录音增补版讲稿（伤寒论398条+金匮要略22篇），蒸馏为16个六经辨证IF-THEN公式、9组方证鉴别速查表、4大核心心智模型（六经来自八纲/方证是辨证的尖端/正邪交争/胃气为本）、7步条辨法、8个饮食调理模型、剂量换算体系。含398条逐条讲解+22篇金匮详解+7大模块r... |
 
 > 💡 **社区招募**：中医药 AI 是一个极具潜力但资源稀缺的方向。如果你有中医知识图谱、方剂数据库、辨证论治 Agent 等项目，欢迎提交 PR！
 
@@ -164,6 +165,7 @@
 | [jungian-psychologist](https://clawskills.sh/skills/jungian-psychologist) | ⚠️ 部分可用 | 荣格心理学：阴影工作、原型分析、梦境解读。*(链接可能失效)* |
 | [adhd-assistant](https://clawskills.sh/skills/thinktankmachine-adhd-assistant) | ✅ 直接可用 | ADHD 友好的生活管理助手 |
 | [social-media-detox](https://clawskills.sh/skills/social-media-detox) | ✅ 直接可用 | 社交媒体戒瘾 + 数字健康。*(链接可能失效)* |
+| [cirosantilli](https://github.com/cirosantilli/cirosantilli) | — | ✅ 直接可用 | ![](https://img.shields.io/github/stars/cirosantilli/cirosantilli?style=flat-square) | 小粉红小朋友们，新issue 在这儿开： https://github.com/cirosantilli/china-dictatorship/issues # 21世纪新政宣言（2020年4月5曰笫四次修改稿)（2020年6月19曰第七次修改，以下“【】”内文字为非正文内容的说明）20世纪苏联的消亡和东欧的大变革，使这21世纪初的现中国大陆成为世界关注的最主要焦点和影响新世纪文明发展的关键... |
 
 ---
 
