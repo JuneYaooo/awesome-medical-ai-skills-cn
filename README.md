@@ -254,6 +254,7 @@
 | [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | ![](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=flat-square) | 869 个医疗技能（港中文深圳团队） |
 | [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | ![](https://img.shields.io/github/stars/yzfly/Awesome-MCP-ZH?style=flat-square) | MCP 中文资源精选，含部分医疗相关 MCP 服务器索引。 |
 | [awesome-medical-mcp-servers](https://github.com/sunanhe/awesome-medical-mcp-servers) | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/sunanhe/awesome-medical-mcp-servers?style=flat-square) | 医疗 MCP 服务器合集 — 收录 PubMed、FHIR、DICOM、ClinicalTrials 等常用医学 MCP 服务器，分类索引方便查询。 |
+| [Awesome-TCM-LLM](https://github.com/tyang816/Awesome-TCM-LLM) | — | ✅ 直接可用 | ![](https://img.shields.io/github/stars/tyang816/Awesome-TCM-LLM?style=flat-square) | Open-source Traditional Chinese Medical Large Language Models. （开源中文医疗大模型合集） |
 
 ---
 
