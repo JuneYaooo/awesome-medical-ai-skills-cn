@@ -103,6 +103,7 @@
 | [nihaixia-app](https://github.com/jangviktor-web/nihaixia-app) | — | ✅ 直接可用 | ![](https://img.shields.io/github/stars/jangviktor-web/nihaixia-app?style=flat-square) | 倪海厦汉唐中医AI安卓诊断APP - 基于倪海厦天纪、地纪、人纪、伤寒论、金匮要略、黄帝内经、神农本草经、历史医案、六经辨证体系的安卓中医诊断助手 | TCM Diagnosis App based on Ni Haisha's Six Meridian theory |
 | [nihaisha-nishi-tcm](https://github.com/JuneYaooo/nihaisha-nishi-tcm) | Claude Code | ✅ 直接可用 | ![](https://img.shields.io/github/stars/JuneYaooo/nihaisha-nishi-tcm?style=flat-square) | 倪海厦中医课程 Agent Skill — 支持课程检索、方证穴位辨析、本草药物查询、学习笔记整理与板书截图证据索引。200+ 经典经方结构化临床数据，本地运行。 |
 | [huxishu](https://github.com/jangviktor-web/huxishu) | — | ✅ 直接可用 | ![](https://img.shields.io/github/stars/jangviktor-web/huxishu?style=flat-square) | 胡希恕（1898-1984）经方临床AI技能 — 将经方传道第一人的六经八纲辨证体系注入AI Agent。基于38万字中日录音增补版讲稿（伤寒论398条+金匮要略22篇），蒸馏为16个六经辨证IF-THEN公式、9组方证鉴别速查表、4大核心心智模型（六经来自八纲/方证是辨证的尖端/正邪交争/胃气为本）、7步条辨法、8个饮食调理模型、剂量换算体系。含398条逐条讲解+22篇金匮详解+7大模块r... |
+| [huangyuanyu](https://github.com/jangviktor-web/huangyuanyu) | OpenClaw | ✅ 直接可用 | ![](https://img.shields.io/github/stars/jangviktor-web/huangyuanyu?style=flat-square) | 黄元御视角的中医Agent Skill，完整复刻清代名医黄元御一气周流、土枢四象中医辨证体系，融合《四圣心源》《周易悬象》《道德悬解》三书同源思想，是面向 AI Agent 的专业中医辨证技能插件。项目内置 15 套中医诊断公式、8 棵辨证决策树、10 组问诊协议、273 条病机关键词索引，复刻黄元御中气为轴、左升右降、崇阳抑阴诊疗结合伤寒论、金匮要略、黄帝内经、神农本草经、经方逻辑，可实现... |
 
 > 💡 **社区招募**：中医药 AI 是一个极具潜力但资源稀缺的方向。如果你有中医知识图谱、方剂数据库、辨证论治 Agent 等项目，欢迎提交 PR！
 
