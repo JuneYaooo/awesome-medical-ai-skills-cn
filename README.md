@@ -74,6 +74,7 @@
 **[→ 临床技能详情](categories/临床技能.md)**
 
 ---
+| [元医生 /for-ai/SKILL.md](https://www.yuandoctor.com/for-ai/SKILL.md) | Web / Agent skill | ✅ 直接可用 | — | 执业医师用床旁评分与诊疗路径（NIHSS、qSOFA、Wells PE、HEART 等）；浏览器本地计算、数据不上传。含 AI agent 可读的 SKILL.md。 |
 
 ## 医疗 MCP 服务器
 
