@@ -70,6 +70,7 @@
 | [family-doctor](https://github.com/Yungho/family-doctor) | Claude Code / OpenClaw | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/Yungho/family-doctor?style=flat-square) | AI 家庭医生技能套件。25 个技能覆盖慢病管理、症状分诊、用药、睡眠、心理、家族史和预防保健；支持 Markdown+JSON 健康档案、自动关联分析与中文文档。 |
 | [抗癌搭子 / cancer-buddy-skill](https://github.com/CancerDAO/cancer-buddy-skill) | Claude Code | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/CancerDAO/cancer-buddy-skill?style=flat-square) | 面向癌症患者全程支持的 Claude Code Skill。覆盖病理/基因报告解读、8 维治疗路径梳理、ClinicalTrials.gov + ChiCTR 试验匹配、扩展准入导航与患者教育；仓库含 `SKILL.md`、安装文档和参考资料。 |
 | [WellAlly-health](https://github.com/huifer/WellAlly-health) | Claude Code | ✅ 直接可用 | — | 个人健康档案管理。13 个专科咨询模拟、药物相互作用检测（A/B/C/D/X 五级）、辐射剂量追踪。**中英双语**。*(原名 Claude-Ally-Health)* |
+| [dyz-med-paper-skills](https://github.com/duyunzhoudyz/dyz-med-paper-skills) | Claude Code | ⚠️ 部分可用 | ![](https://img.shields.io/github/stars/duyunzhoudyz/dyz-med-paper-skills?style=flat-square) | 医学论文写作与科研助手：面向中国医生和医学研究生的 32 个 Agent Skills，适用于 Claude Code、Codex，覆盖选题、PubMed 文献检索、中英写作、选刊投稿与审稿修回。Medical writing & research skills. |
 
 **[→ 临床技能详情](categories/临床技能.md)**
 
@@ -104,6 +105,7 @@
 | [nihaisha-nishi-tcm](https://github.com/JuneYaooo/nihaisha-nishi-tcm) | Claude Code | ✅ 直接可用 | ![](https://img.shields.io/github/stars/JuneYaooo/nihaisha-nishi-tcm?style=flat-square) | 倪海厦中医课程 Agent Skill — 支持课程检索、方证穴位辨析、本草药物查询、学习笔记整理与板书截图证据索引。200+ 经典经方结构化临床数据，本地运行。 |
 | [huxishu](https://github.com/jangviktor-web/huxishu) | — | ✅ 直接可用 | ![](https://img.shields.io/github/stars/jangviktor-web/huxishu?style=flat-square) | 胡希恕（1898-1984）经方临床AI技能 — 将经方传道第一人的六经八纲辨证体系注入AI Agent。基于38万字中日录音增补版讲稿（伤寒论398条+金匮要略22篇），蒸馏为16个六经辨证IF-THEN公式、9组方证鉴别速查表、4大核心心智模型（六经来自八纲/方证是辨证的尖端/正邪交争/胃气为本）、7步条辨法、8个饮食调理模型、剂量换算体系。含398条逐条讲解+22篇金匮详解+7大模块r... |
 | [huangyuanyu](https://github.com/jangviktor-web/huangyuanyu) | OpenClaw | ✅ 直接可用 | ![](https://img.shields.io/github/stars/jangviktor-web/huangyuanyu?style=flat-square) | 黄元御视角的中医Agent Skill，完整复刻清代名医黄元御一气周流、土枢四象中医辨证体系，融合《四圣心源》《周易悬象》《道德悬解》三书同源思想，是面向 AI Agent 的专业中医辨证技能插件。项目内置 15 套中医诊断公式、8 棵辨证决策树、10 组问诊协议、273 条病机关键词索引，复刻黄元御中气为轴、左升右降、崇阳抑阴诊疗结合伤寒论、金匮要略、黄帝内经、神农本草经、经方逻辑，可实现... |
+| [ye-tianshi-skill](https://github.com/jangviktor-web/ye-tianshi-skill) | — | ✅ 直接可用 | ![](https://img.shields.io/github/stars/jangviktor-web/ye-tianshi-skill?style=flat-square) | 叶天士 · 温病卫气营血辨证 skill（AI agent 角色技能包 / 中医思维蒸馏 / prompt persona）：把清代医家叶天士的辨证坐标系、六套框架、七条用药之禁与文人医家口吻，蒸馏为可调用能力。含《温热论》《临证指南医案》《叶氏医案存真》《叶选医衡》四部原著 10338 行正典、17 份维度分析、215 案医案库、158 条古今病名映射、20 组剂量卡、29 问 FAQ、校... |
 | [wujutong](https://github.com/jangviktor-web/wujutong) | — | ✅ 直接可用 | ![](https://img.shields.io/github/stars/jangviktor-web/wujutong?style=flat-square) | 温病派大师吴鞠通（1758-1836）中医 Agent Skill。基于《温病条辨》《医医病书》《吴鞠通医案》359 案、《温热经纬》吴氏按语蒸馏。三焦辨证·卫气营血·22 温病方剂·9 诊断公式·凉开三宝·白虎四禁·湿温三禁。与倪海厦 skill 合参互补。TCM Wu Jutong warm disease sanjiao differentiation AI agent skill. |
 
 > 💡 **社区招募**：中医药 AI 是一个极具潜力但资源稀缺的方向。如果你有中医知识图谱、方剂数据库、辨证论治 Agent 等项目，欢迎提交 PR！
